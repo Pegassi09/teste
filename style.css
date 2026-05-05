@@ -2,6 +2,6 @@ body{
     background-color: lightblue;
     
 }
-h1{
-    color:lightgreen
+h1, h2, h3{
+    color:gray
 }
